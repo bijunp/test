@@ -1,0 +1,5 @@
+{{#bijunp}
+Name: BIJU NP
+Skills: HTML, CSS, JS, Next.js
+Email: bijuneeleshkumar@gmail.com
+{{/bijunp}}
